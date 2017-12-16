@@ -9,6 +9,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>springcloud-eureka-server</module>
+        <module>springcloud-eureka-server2</module>
+        <module>springcloud-eureka-server3</module>
         <module>springcloud-eureka-client</module>
     </modules>
 
